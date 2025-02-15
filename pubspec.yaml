@@ -1,0 +1,31 @@
+name: styleby
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  carousel_slider: ^5.0.0
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.1
+  widget_and_text_animator: ^1.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/styleby11.png
+    - assets/images/styleby22.png
+    - assets/images/whatsapp.png
+    - assets/images/instagram.png
+    - assets/images/fit1.png
+    - assets/images/fit2.png
+    - assets/images/fit3.png
+    - assets/images/fit4.png
